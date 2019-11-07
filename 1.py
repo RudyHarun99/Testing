@@ -18,5 +18,5 @@ print(Andi.nama)
 #git branch -D (nama branch) #hapus branch
 #git checkout -b (namabranch) #bikin branch langsung kerja
 #git merge (nama branch) #merge branch ke master
-#git remote add (nama alias) https:....
+#git remote add (nama alias) https:.... #upload ke github
 #git push (nama alias) master
