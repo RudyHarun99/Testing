@@ -16,3 +16,5 @@ print(Andi.nama)
 #git branch (namabranch)
 #git branch -a #liat ada branch apa aja
 #git branch -D (nama branch) #hapus branch
+#git checkout -b (namabranch) #bikin branch langsung kerja
+#git merge (nama branch) #merge branch ke master
