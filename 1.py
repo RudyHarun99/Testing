@@ -20,3 +20,4 @@ print(Andi.nama)
 #git merge (nama branch) #merge branch ke master
 #git remote add (nama alias) https:.... #upload ke github
 #git push (nama alias) master
+#git clone (link repo github)
