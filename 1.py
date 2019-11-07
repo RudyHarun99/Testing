@@ -11,5 +11,8 @@ print(Andi.nama)
 #git add (namafile)
 #git checkout (id)
 #git checkout master
-#git reset (id)
+#git reset (id) #menghapus progres
 #git commit -m "komentar apa aja"
+#git branch (namabranch)
+#git branch -a #liat ada branch apa aja
+#git branch -D (nama branch) #hapus branch
